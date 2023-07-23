@@ -21,6 +21,6 @@
 #second {
     position: absolute;
     top:0;
-   
+   transform: rotate(45deg)
 }
 

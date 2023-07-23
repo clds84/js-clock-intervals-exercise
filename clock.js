@@ -23,7 +23,7 @@ const hourHand = document.getElementById("hour")
   
 
   //I found this date function and it works to place the hands at current time
-  //except for the hour, it seems to be 7 hours behind? But another thing
+  //except for the hour, it seems to be 7 hour¥s behind? But another thing
   //that I couldn't figure out is that when the DOM content loads, the hands
   //are at 12, and then after a second the second hand shifts to wherever
   //Date.now places it. After a minute the minutehand would be in the right
