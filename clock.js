@@ -20,7 +20,7 @@ const hourHand = document.getElementById("hour")
   // }, 60000)
     //}
   //  countMinutes();
-  HOLA MOM
+  
 
   //I found this date function and it works to place the hands at current time
   //except for the hour, it seems to be 7 hour¥s behind? But another thing
